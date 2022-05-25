@@ -1,0 +1,4 @@
+make multithreading based on how many cores current pc has.
+make zoom stop before floating point is reached.
+make julia set move and look nice.
+more colors?
